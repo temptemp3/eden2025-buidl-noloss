@@ -51,7 +51,7 @@ The application will be available at `http://localhost:3000`
 
 ## Documentation
 
-View the system design documentation [here](https://www.figma.com/board/CzE5lCUw1m2UOijt7c9iEy/Untitled?node-id=0-1&t=6MNhyitF5X6PknY5-1).
+View the system design documentation in docs/system-design.png
 
 View the presentation slides [here](https://www.figma.com/slides/g9e5pyMxlATyU1hKLCtS1A/Blockchain-voting-and-lottery-systems-presentation?node-id=1-1087&t=JrdGEIJ7965LilHv-1).
 
